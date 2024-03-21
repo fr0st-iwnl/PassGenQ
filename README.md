@@ -1,4 +1,4 @@
-# <a href="https://scanifynow.netlify.app/" target="_blank">PassGenQ App</a>
+# <a href="https://passgenq.netlify.app/" target="_blank">PassGenQ App</a>
 
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-yellow)](https://passgenq.netlify.app/)
 
@@ -6,6 +6,6 @@
  <p>⭐ Star me on Github — it really helps me!</p>
 
 # What is this app for?
- * With Scanify, making QR Codes is simple. Just name your QR Code, and Scanify handles everything. You can also download your QR Code in PNG, JPG, or SVG formats
+ * PassGenQ is a tool that quickly creates strong passwords to keep your accounts secure. It's easy to use and helps you stay safe online.
 
-![Scanify App](https://cdn.discordapp.com/attachments/805554377745235974/1220379553487257630/padlock.png?ex=660eba07&is=65fc4507&hm=a57cb4fdd41283ef77a6638f6caeb9b305448e9eef31101014e7206cbda1fffb&)
+![PassGenQ App](https://cdn.discordapp.com/attachments/913504728778948719/1220380584073887835/Untitled.png?ex=660ebafc&is=65fc45fc&hm=7003be758acc7950456c8e2bcf6d51e7768e62bc36c101d9e70073eae94b20ee&)
