@@ -8,4 +8,4 @@
 # What is this app for?
  * PassGenQ is a tool that quickly creates strong passwords to keep your accounts secure. It's easy to use and helps you stay safe online.
 
-![PassGenQ App](https://cdn.discordapp.com/attachments/913504728778948719/1220380584073887835/Untitled.png?ex=660ebafc&is=65fc45fc&hm=7003be758acc7950456c8e2bcf6d51e7768e62bc36c101d9e70073eae94b20ee&)
+![PassGenQ App](https://raw.githubusercontent.com/fr0st-iwnl/PassGenQ/main/PassGenQ/images/passgen.png)
